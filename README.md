@@ -21,3 +21,10 @@ Aqui estão os links e evidências de cada um dos 5 pontos, conforme solicitado.
 * **Linguagem de Documentação:** Markdown.
 * **Currículo:** LaTeX.
 * ...
+
+* DesingProfissional_AI/
+├─ Curriculo_Link.pdf
+├─ Processo_Seletivo.pdf
+├─ README_Processo_Seletivo.pdf
+├─ README.md
+└─ README_DesingProfissional_AI.pdf
