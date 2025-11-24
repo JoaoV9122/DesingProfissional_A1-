@@ -18,9 +18,5 @@ Aqui estão os links e evidências de cada um dos 5 pontos, conforme solicitado.
 
 ---
 
-## 💻 Tecnologias e Metodologias Utilizadas (Opcional, mas recomendado)
-* **Versionamento:** Git e GitHub.
-* **Linguagem de Documentação:** Markdown.
-* **Currículo:** LaTeX.
-* ...
 
+PORJETO CIDADE INTELIGENTE:[Trabalho Cidade Inteligente.zip](https://github.com/user-attachments/files/23731721/Trabalho.Cidade.Inteligente.zip)
