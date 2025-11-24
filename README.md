@@ -8,7 +8,8 @@ Aqui estão os links e evidências de cada um dos 5 pontos, conforme solicitado.
 
 | Item | Entregável | Evidência/Link | Status |
 | :---: | :--- | :--- | :---: |
-| 1 | Participação em Processo Seletivo | [Link para o arquivo Processo_Seletivo.pdf]("C:\Users\joaov\OneDrive\Área de Trabalho\CANDIDATURA.pdf") | ✅ |
+| 1 | Participação em Processo Seletivo | [Link para o arquivo Processo_Seletivo.pdf][Uploading CANDIDATURA.pdf…]()
+ | ✅ |
 | 2 | Currículo Lattes ou em LaTeX | [Link para o Currículo Lattes]([http://lattes.cnpq.br/1331465405086518]) ou [Curriculo_Latex.pdf](./Curriculo_Latex.pdf) | ✅ |
 | 3 | Portfólio no GitHub | [Link para a Pasta Portfólio](./Portfólio/) | ✅ |
 | 4 | Repositórios 1º Semestre | [Link para a Pasta Repositorios_1Semestre](./Repositorios_1Semestre/) | ✅ |
@@ -22,9 +23,3 @@ Aqui estão os links e evidências de cada um dos 5 pontos, conforme solicitado.
 * **Currículo:** LaTeX.
 * ...
 
-* DesingProfissional_AI/
-├─ Curriculo_Link.pdf
-├─ Processo_Seletivo.pdf
-├─ README_Processo_Seletivo.pdf
-├─ README.md
-└─ README_DesingProfissional_AI.pdf
