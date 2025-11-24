@@ -4,7 +4,7 @@
 Demonstrar posicionamento profissional, organização digital e engajamento com o mercado de tecnologia por meio de evidências práticas.
 
 ## Checklist de Entregáveis e Links
-Aqui estão os links e evidências de cada um dos 5 pontos, conforme solicitado.
+
 
 | Item | Entregável | Evidência/Link | Status |
 | :---: | :--- | :--- | :---: |
