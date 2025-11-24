@@ -8,7 +8,8 @@ Aqui estão os links e evidências de cada um dos 5 pontos, conforme solicitado.
 
 | Item | Entregável | Evidência/Link | Status |
 | :---: | :--- | :--- | :---: |
-| 1 | Participação em Processo Seletivo | [Link para o arquivo Processo_Seletivo.pdf][Uploading CANDIDATURA.pdf…]()
+| 1 | Participação em Processo Seletivo |  [Uploading CANDIDATURA.pdf…]()
+  ()
  | ✅ |
 | 2 | Currículo Lattes ou em LaTeX | [Link para o Currículo Lattes]([http://lattes.cnpq.br/1331465405086518]) ou [Curriculo_Latex.pdf](./Curriculo_Latex.pdf) | ✅ |
 | 3 | Portfólio no GitHub | [Link para a Pasta Portfólio](./Portfólio/) | ✅ |
